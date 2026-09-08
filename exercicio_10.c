@@ -25,7 +25,7 @@ int main()
     if(media>=7 &&frequencia>=75){
         printf("Aprovado");
     }
-    else if(media>=5 &&media<=6,9 &&frequencia>=75){
+    else if(media>=5 &&media<=6.9 &&frequencia>=75){
         printf("Recuperacao");
         
     }
